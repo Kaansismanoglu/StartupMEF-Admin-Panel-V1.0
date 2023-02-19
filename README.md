@@ -12,3 +12,4 @@ SCSS has been used to increase code customizability.
 **StartupMEF Admin-Panel V1.0** isn't an open source project but you can find this template on [AdminLTE.io](https://adminlte.io) that is licensed under [MIT](https://opensource.org/licenses/MIT).
 It is completely forbidden to use all the images used in the project in other places as per the club rules.
 
+!["StartupMEF Panel"](https://cdn-images-1.medium.com/max/728/1*Xv-qw0c_n0jarMQWJMwY7A@2x.png "StartupMEF Panel")
